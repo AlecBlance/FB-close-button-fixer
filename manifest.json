@@ -1,6 +1,7 @@
 {
 	"manifest_version": 2,
-	"name": "FB x/close button fixer",
+	"name": "FBx",
+	"description": "A simple Google Chrome extension that fixes Facebook close button bug.",
 	"version": "1.0",
 	"background": {
 		"scripts": ["background.js"]
