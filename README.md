@@ -13,6 +13,12 @@
 <br>
 
 ## How to install
+<h3>Youtube video</h3>
+
+
+
+[![FBx Demo](https://img.youtube.com/vi/9nuXkvcCfTI/0.jpg)](https://www.youtube.com/watch?v=9nuXkvcCfTI "FBx Demo")
+
 1. Download the <a href="https://github.com/AlecBlance/FBx/releases/download/v1.0/Fbx.zip"> FBx extension </a>
 2. Extract the downloaded extension
 3. Go to Google Chrome's Settings - icon > Tools > Extensions 
