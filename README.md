@@ -24,6 +24,7 @@
 3. Go to Google Chrome's Settings - icon > Tools > Extensions 
 4. Enable Developer Mode ( toggle button in top-right corner )
 5. Click "Load unpacked" and locate the extracted extension from step 2
+6. Browse facebook without problems
 
 ## Bug Sample
 The texts (red boxes) are present and the close button (green circle) cannot be clicked. This is because the parent element of the texts (red boxes) is on top of the close button. So instead of closing, it will redirect you to a different page. 
