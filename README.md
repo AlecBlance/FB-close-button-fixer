@@ -1,2 +1,2 @@
-# FB-close-button-fixer
-Fixes FB close button bug
+# FB Close Button Fixer
+A simple Google Chrome extension that fixes Facebook close button bug.
