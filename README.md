@@ -19,7 +19,7 @@
 
 [![FBx Demo](https://img.youtube.com/vi/9nuXkvcCfTI/0.jpg)](https://www.youtube.com/watch?v=9nuXkvcCfTI "FBx Demo")
 
-1. Download the <a href="https://github.com/AlecBlance/FBx/releases/download/v1.0/Fbx.zip"> FBx extension </a>
+1. Download the <a href="https://github.com/AlecBlance/FBx/releases/download/v1.1/FBx.Extension.v1.1.zip"> FBx extension </a>
 2. Extract the downloaded extension
 3. Go to Google Chrome's Settings - icon > Tools > Extensions 
 4. Enable Developer Mode ( toggle button in top-right corner )
